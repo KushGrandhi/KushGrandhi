@@ -39,9 +39,11 @@
 **Statistics:**
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api?username=KushGrandhi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abhigyan's Github Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushGrandhi&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abhigyan's Github Stats" />
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushGrandhi&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Abhigyan's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=KushGrandhi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kush's Github Stats">
+<br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushGrandhi&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kush's Github Stats" />
+<br>
+<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushGrandhi&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Kush's Github Stats" />
 <br />
 <br />
 ![](https://komarev.com/ghpvc/?username=KushGrandhi&color=fad000)
