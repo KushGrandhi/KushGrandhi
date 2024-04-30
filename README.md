@@ -19,31 +19,17 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at SRM Institute of Science And Technology
-- 🌱 I’m pursuining DeepLearning And App Development. 
-- 💬 Reach me out if you want to collaborate.
-- 📫 Email me at [khush.grandhi@gmail.com](mailto:khush.grandhi@gmail.com).
+- 👨🏽‍💻 I’m currently a CS Grad student at USC
+- 🌱 I’m pursuining Machine Learning and Deep Learning. 
+- 📫 Reach me at [kgrandhi@usc.edu](mailto:kgrandhi@usc.edu).
 
 
 
 **Languages and Tools:**  
 * TensorFlow
 * Pytorch
-* Django
-* Flask
 * Python
-* CPP
-* C
+
 <br>
 
-**Statistics:**
-<br />
-<br />
-<img src="https://github-readme-stats.vercel.app/api?username=KushGrandhi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kush's Github Stats">
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KushGrandhi&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Kush's Github Stats" />
-<br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KushGrandhi&count_private=true&theme=shades-of-purple&icon_color=fad000&layout=compact" alt="Kush's Github Stats" />
-<br />
-<br />
-![](https://komarev.com/ghpvc/?username=KushGrandhi&color=fad000)
+
